@@ -1,0 +1,47 @@
+.amount-aria{
+    display: grid;
+    grid-template-columns: 31.9% 66.1%;
+    grid-column-gap: 30px;  
+}
+.fund-collections{
+    background-color: #049ec0;
+    border-radius: 10px;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    }
+.fund-collections h3{
+    font-size: 30px;
+    margin-top: 0;
+    font-weight: 500;
+    }
+.fund-collections .total-selected{
+font-size: 40px;
+    }
+
+.company-name{
+        background-color: #049ec0;
+        border-radius: 10px;
+        padding: 20px;
+        min-height: 150px;
+        height: auto;
+    }
+.company-name h3{
+        text-align: center;
+        color: #fff;
+        font-size: 30px;
+        margin-top: 0;
+        font-weight: 500;
+    }
+    .selected-company-name{
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+    }
+.company-name p{
+        color: #007f9a;
+        background-color: white;
+        padding: 10px 30px;
+        margin: 10px;
+        border-radius: 5px;
+        text-align: center;
+    }

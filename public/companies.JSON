@@ -1,5 +1,6 @@
 [
     {
+        "id": "1",
         "img": "https://1000logos.net/wp-content/uploads/2017/12/Casio-Logo-500x281.png",
         "name": "CASIO",
         "location": "USA",
@@ -8,6 +9,7 @@
         "amountOfSponsor": 3400
     },
     {
+        "id": "2",
         "img": "https://1000logos.net/wp-content/uploads/2021/05/HTC-logo-500x281.png",
         "name": "HTC",
         "location": "China",
@@ -16,14 +18,16 @@
         "amountOfSponsor": 6420
     },
     {
+        "id": "3",
         "img": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-500x313.png",
         "name": "Amazon",
         "location": "USA",
         "lastSponsoredDate": "24-08-2021",
-        "ReadyToSponsor": "NO",
-        "amountOfSponsor": 0
+        "ReadyToSponsor": "Yes",
+        "amountOfSponsor": 4500
     },
     {
+        "id": "4",
         "img": "https://1000logos.net/wp-content/uploads/2021/04/AliExpress-logo-500x281.png",
         "name": "AliExpress",
         "location": "China",
@@ -32,6 +36,7 @@
         "amountOfSponsor": 4000
     },
     {
+        "id": "5",
         "img": "https://1000logos.net/wp-content/uploads/2016/09/Acer-Logo-500x313.png",
         "name": "Acer",
         "location": "China",
@@ -40,6 +45,7 @@
         "amountOfSponsor": 2300
     },
     {
+        "id": "6",
         "img": "https://1000logos.net/wp-content/uploads/2016/10/Asus-Logo-500x313.png",
         "name": "Asus",
         "location": "UK",
@@ -48,6 +54,7 @@
         "amountOfSponsor": 2000
     },
     {
+        "id": "7",
         "img": "https://1000logos.net/wp-content/uploads/2021/05/Intel-logo-500x281.png",
         "name": "Intel",
         "location": "USA",
@@ -56,6 +63,7 @@
         "amountOfSponsor": 3500
     },
     {
+        "id": "8",
         "img": "https://1000logos.net/wp-content/uploads/2017/03/LG-logo-500x281.png",
         "name": "LG",
         "location": "UK",
@@ -64,6 +72,7 @@
         "amountOfSponsor": 3400
     },
     {
+        "id": "9",
         "img": "https://1000logos.net/wp-content/uploads/2017/04/Microsoft-Logo-500x163.png",
         "name": "Microsoft",
         "location": "USA",

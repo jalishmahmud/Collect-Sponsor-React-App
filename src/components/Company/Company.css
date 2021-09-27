@@ -1,0 +1,40 @@
+.single-company{
+border: 5px solid #049EC0;
+border-radius: 10px;
+padding: 30px;
+padding-top: 0;
+}
+.single-company img{
+    width: 150px;
+    
+}
+.single-company .company-image{
+    height: 80px;
+}
+.single-company table{
+    margin-top: 10px;
+}
+.single-company table td{
+    padding: 5px 10px;
+    padding-right:15px ;
+    background-color: #bff3ff;
+    border-radius: 3px;
+}
+.single-company button{
+    margin-top: 20px;
+    height: 42px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #007F9A;
+    color: white;
+    cursor: pointer;
+    transition: all .3s ease;
+    padding: 10px 30px;
+}
+
+.single-company button:hover{
+    border: 1px solid #007F9A;
+    background-color:white;
+    color: #007F9A;
+}
