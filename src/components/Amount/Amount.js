@@ -1,7 +1,10 @@
 import React from 'react';
+
+// css import
 import './Amount.css'
 const Amount = (props) => {
-    console.log(props.amount);
+
+    //array destructuring
     const { amount } = props;
 
     let totalAmount = 0;

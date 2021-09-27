@@ -1,6 +1,15 @@
 import React from 'react';
+
+// font awesome import
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons'
+
+// css import
 import './Company.css'
 const Company = (props) => {
+    const arrowRight = <FontAwesomeIcon icon={faArrowAltCircleRight} />
+
+    //array destructuring
     const { name, location, ReadyToSponsor, amountOfSponsor, lastSponsoredDate, img } = props.company;
     return (
         <div className="single-company">
@@ -31,7 +40,7 @@ const Company = (props) => {
                     </tr>
                 </tbody>
             </table>
-            <button onClick={() => props.handleSingleCompany(props.company)}>Select</button>
+            <button onClick={() => props.handleSingleCompany(props.company)}>Select  {arrowRight}</button>
 
         </div>
     );
